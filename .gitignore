@@ -1,0 +1,7 @@
+# Ignore large dataset files
+*.csv
+*.tar.gz
+build/*.class
+
+# Keep the JAR and sample
+!data/sample_input.csv
